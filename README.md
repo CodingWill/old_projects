@@ -1,2 +1,2 @@
 # old_projects
-For previous coding projects, I will push them later.
+For previous coding projects.
